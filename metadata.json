@@ -1,0 +1,5 @@
+{
+  "name": "Token Speed Simulator",
+  "description": "A visual tool to simulate and evaluate LLM token output speeds with realistic fluctuations.",
+  "requestFramePermissions": []
+}
