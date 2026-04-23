@@ -13,7 +13,6 @@
 
 <img width="2560" height="1440" alt="Snipaste_2026-04-24_06-07-12" src="https://github.com/user-attachments/assets/f18c7174-b49d-4609-a836-1e81d24cd465" />
 
-<img width="2560" height="1440" alt="Snipaste_2026-04-24_06-06-49" src="https://github.com/user-attachments/assets/529d3983-b54e-4b6d-83bd-8007daf5e1a8" />
 
 https://yaki1210.github.io/Token-Speed-Simulator/
 </div>
